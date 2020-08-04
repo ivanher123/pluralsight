@@ -1,3 +1,0 @@
-# pluralsight
-test
-test2
